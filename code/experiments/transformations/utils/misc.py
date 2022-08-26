@@ -1,7 +1,7 @@
 from callbacks import TriggerActionWithPatience
 from torchvision.transforms.transforms import RandomAffine
 import collections
-from ML_framework.experiment import create_backbone_exp, SupervisedLearningExperiment
+from experiment import create_backbone_exp, SupervisedLearningExperiment
 import torch
 import torchvision
 import numpy as np

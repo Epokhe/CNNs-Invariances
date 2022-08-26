@@ -1,0 +1,7 @@
+*.gv
+*.pdf
+*.bat
+__pycache__/*
+**/__pycache__/**
+*.ipynb*
+external/ImageNet_downloader

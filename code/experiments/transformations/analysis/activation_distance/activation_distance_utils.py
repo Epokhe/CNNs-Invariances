@@ -1,5 +1,5 @@
-from ML_framework.distance_activation import DistanceActivation
-from ML_framework.distance_activation import CompareWith
+from distance_activation import DistanceActivation
+from distance_activation import CompareWith
 from PIL import Image
 from torchvision.transforms import RandomAffine
 import re

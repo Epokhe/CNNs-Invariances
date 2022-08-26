@@ -13,7 +13,7 @@ from torchvision.datasets import DatasetFolder
 from torchvision.transforms import RandomAffine, functional as F
 
 from callbacks import GenericDataFrameSaver
-from ML_framework.datasets import MyImageFolder
+from datasets import MyImageFolder
 
 
 class TransformInfo:
